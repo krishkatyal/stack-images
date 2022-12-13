@@ -1,4 +1,4 @@
-# stack-images
+# stack images
 
 
 for .pynb extention files :
