@@ -1,6 +1,15 @@
-# stack images
+# Multidisciplinary Exploration of the Intersection between Computer Vision and Aesthetics: Image Stacking Techniques 
+## Stacking using the Function
+- A flexible and reusable function that can take in multiple images and scale them to a desired size
+- Uses advanced techniques such as Gaussian blur, canny edge detection, and morphological operations to manipulate the images in interesting ways
+- Ability to label each image with a custom text that can be positioned and styled as needed
+- Demonstrates the benefits of modular programming and code reuse
+## Stacking images without Function
+- A straightforward demonstration of how to horizontally and vertically stack two images without using any function
+- Showcases the raw power of OpenCV's image manipulation capabilities
+- Serves as a solid starting point for beginners who want to get started with image manipulation using OpenCV
 
-
+### How to use:
 for .pynb extention files :
 			install all dependent library
 			run each cell and if any input is missing like if any file requires image then provide image name and save image in same folder
